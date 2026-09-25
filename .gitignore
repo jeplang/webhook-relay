@@ -1,0 +1,6 @@
+# local working files — never committed (contain application details)
+PROJECT_BRIEF.md
+
+# build artifacts
+bin/
+*.exe
